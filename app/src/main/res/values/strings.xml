@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearningRX</string>
+    <string name="search_title">Search</string>
+    <string name="and">and</string>
+</resources>
